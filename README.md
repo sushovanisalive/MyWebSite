@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/Bootstrap-Blog-Template-DevBlog-Pormo.jpg" alt="Bootstrap 4 Blog Template for Developers" /></a>
 
-You can use the [editor on GitHub](https://github.com/sushovanisalive/MyWebSite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Theme Details & Demo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/
 
-### Markdown
+DevBlog is a **free Bootstrap blog template** made for developers. It provides a great reading experience for desktop and mobile users. Comes with 8 hand-picked colour schemes, you can easily customise the theme colour/styling via the source SCSS files.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Blogging is a great way for developers to share their ideas and promote their work or side projects. This template can help you set up a professional-looking blog in no time. No need to rely on a third-party blogging platform – get all the traffic to your own site instead. Want to get your blog online and start building your audience? Don’t miss this template!
 
-```markdown
-Syntax highlighted code block
+## Author & License
 
-# Header 1
-## Header 2
-### Header 3
+This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
 
-- Bulleted
-- List
+If you'd like to **use the template without the attribution**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/)
 
-1. Numbered
-2. List
+#### Follow Xiaoying
 
-**Bold** and _Italic_ and `Code` text
+[Twitter](https://twitter.com/3rdwave_themes)
 
-[Link](url) and ![Image](src)
-```
+[Facebook](https://www.facebook.com/3rdwavethemes/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Dribbble](https://dribbble.com/Xiaoying)
 
-### Jekyll Themes
+[Medium](https://medium.com/@3rdwave_themes)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sushovanisalive/MyWebSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Linkedin](https://uk.linkedin.com/in/xiaoying)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Latest Version
+**v1.1** - 12 Feb 2019
+
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/popular/devblog-free-bootstrap-4-blog-template-for-developers/?target=changelog)
+
+## Colour Schemes
+
+#### Colour 1 (theme-1.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/devblog-theme-1.jpg" width="400" alt="DevBlog color 1" />
+
+#### Colour 2 (theme-2.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/devblog-theme-2.jpg" width="400" alt="DevBlog color 2" />
+
+#### Colour 3 (theme-3.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/devblog-theme-3.jpg" width="400" alt="DevBlog color 3" />
+
+#### Colour 4 (theme-4.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/devblog-theme-4.jpg" width="400" alt="DevBlog color 4" />
+
+#### Colour 5 (theme-5.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/devblog-theme-5.jpg" width="400" alt="DevBlog color 5" />
+
+#### Colour 6 (theme-6.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/devblog-theme-6.jpg" width="400" alt="DevBlog color 6" />
+
+#### Colour 7 (theme-7.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/devblog-theme-7.jpg" width="400" alt="DevBlog color 7" />
+
+#### Colour 8 (theme-8.css)
+<img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/02/devblog-theme-8.jpg" width="400" alt="DevBlog color 8" />
+
+## Features
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 4
+-  **SCSS** source files included
+-  8 Colour Schemes
+-  1000+ FontAwesome 5 icons
+-  Compatible with all modern browsers
+
+## Credits
+- [Bootstrap](https://getbootstrap.com/)
+- [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
+- [Highlight.js](https://highlightjs.org/)
